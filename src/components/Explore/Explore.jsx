@@ -4,7 +4,7 @@ import { TiStarFullOutline } from "react-icons/ti";
 import { TiStarHalfOutline } from "react-icons/ti";
 import { TiStarOutline } from "react-icons/ti";
 import axios from 'axios';
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 const Explore = () => {
     const [products, setProducts] = useState([])

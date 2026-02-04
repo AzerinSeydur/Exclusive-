@@ -7,7 +7,7 @@ import product1 from '../../assets/images/product1.png'
 import p2 from '../../assets/images/p2.png'
 import p3 from '../../assets/images/p3.png'
 import p4 from '../../assets/images/p4.png'
-import { Link, useParams } from 'react-router'
+import { Link, useParams } from 'react-router-dom'
 import { FaMinus } from "react-icons/fa6";
 import { FaStar } from "react-icons/fa";
 import { IoMdHeartEmpty } from "react-icons/io";

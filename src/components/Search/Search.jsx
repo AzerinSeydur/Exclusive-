@@ -5,7 +5,7 @@ import { TiStarFullOutline } from "react-icons/ti";
 import { TiStarHalfOutline } from "react-icons/ti";
 import { TiStarOutline } from "react-icons/ti";
 import axios from 'axios';
-import { Link, useParams } from 'react-router';
+import { Link, useParams } from 'react-router-dom';
 
 
 const SearchProduct = () => {

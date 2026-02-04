@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import phone from '../../assets/images/mobile.png'
 
 import axios from 'axios'
-import { Link } from 'react-router'
+import { Link } from 'react-router-dom'
 
 const Category = () => {
         const [categories, setCategories] = useState([])

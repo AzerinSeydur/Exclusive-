@@ -3,7 +3,7 @@ import cart1 from '../../assets/images/cart1.png'
 import cart2 from '../../assets/images/cart2.png'
 import { MdKeyboardArrowDown } from "react-icons/md";
 import { MdKeyboardArrowUp } from "react-icons/md";
-import { Link } from 'react-router';
+import { Link } from 'react-router-dom';
 
 const Cart = () => {
     const [price, setPrice] = useState( {

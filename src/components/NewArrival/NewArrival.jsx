@@ -6,7 +6,7 @@ import p3 from '../../assets/images/p3.png'
 import p4 from '../../assets/images/p4.png'
 import { TiStarFullOutline } from "react-icons/ti";
 import { TiStarHalfOutline } from "react-icons/ti";
-import { Link } from 'react-router'
+import { Link } from 'react-router-dom'
 
 const NewArrival = () => {
   return (

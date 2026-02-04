@@ -5,7 +5,7 @@ import { CiSearch } from "react-icons/ci";
 import { IoMdHeartEmpty } from "react-icons/io";
 import { IoCartOutline } from "react-icons/io5";
 import { LuUser } from "react-icons/lu";
-import { Link, useLocation } from 'react-router';
+import { Link, useLocation } from 'react-router-dom';
 
 const Navbar = () => {
     const location = useLocation();
